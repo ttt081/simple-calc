@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+.container {
+  /* border: 2px solid; */
+  width: 400px;
+  margin: 10px auto;
+}
+#firstNumber,
+#secondNumber,
+#result {
+  background-color: yellowgreen;
+  width: 200px;
+  margin: 10px auto;
+  padding: 10px;
+}
+#result {
+  background-color: goldenrod;
+}
+
+button {
+  padding: 8px;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
